@@ -26,3 +26,6 @@ Esame UNIVPM Programmazione ad Oggetti gennaio 2021
 
 ### Package Filter
 ![Schermata 2020-12-23 alle 17 52 19](https://user-images.githubusercontent.com/75066505/103020534-d8ab5100-4548-11eb-8670-eaca6385d940.png)
+### Statistiche pacchetto
+![Statistics](https://user-images.githubusercontent.com/75066510/103221854-e9cad800-4923-11eb-822c-83b3af121fc2.jpg)
+]
